@@ -9,7 +9,6 @@ An autonomous 2-Degree-of-Freedom (2-DOF) robotic arm system powered by an **Ard
   </a>
   <p><sub><i>ColourBot in action!</i></sub></p>
 </div>
----
 
 ## System Architecture & Workflow
 
