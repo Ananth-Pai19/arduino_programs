@@ -3,7 +3,12 @@
 
 An autonomous 2-Degree-of-Freedom (2-DOF) robotic arm system powered by an **Arduino UNO R4 WiFi**. ColourBot uses an active RGB LDR optical reflective sensor to identify colored ground targets (RED, GREEN, BLUE) against a WHITE background, pick up target objects using an electromagnet end-effector, and transport them to designated drop zones—all configured via a mobile web interface.
 
-[![Watch ColourBot in Action](https://img.youtube.com/vi/_IE9yJssTY4/hqdefault.jpg)](https://youtube.com/shorts/_IE9yJssTY4)
+<div align="center">
+  <a href="https://youtube.com/shorts/_IE9yJssTY4">
+    <img src="https://img.youtube.com/vi/_IE9yJssTY4/hqdefault.jpg" alt="ColourBot in action!" width="380">
+  </a>
+  <p><sub><i>ColourBot in action!</i></sub></p>
+</div>
 ---
 
 ## System Architecture & Workflow
